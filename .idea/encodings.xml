@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/curator-lock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamic-agent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/httpClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/maven-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/read-resources-file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/schedule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sigar-serverInfo" charset="UTF-8" />
+  </component>
+</project>

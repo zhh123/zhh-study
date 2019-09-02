@@ -1,0 +1,5 @@
+com\zhh\assembly\controller\HelloController.class
+com\zhh\assembly\ServerStart.class
+com\zhh\assembly\AssemblyApplication.class
+com\zhh\assembly\util\ClassPathFileUtil.class
+com\zhh\assembly\config\ServerInfo.class

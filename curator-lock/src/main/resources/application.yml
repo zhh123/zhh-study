@@ -1,0 +1,16 @@
+zookeeper:
+  sessionTimeOut: 60000
+  connectTimeOut: 50000
+  connectString: 192.168.1.241:2181,192.168.1.241:2182,192.168.1.241:2183
+  #项目根节点
+  serverRootPath: /fish-server-myTest
+localserver:
+  #服务器节点名称
+  serverNode: gateWay_registry_address
+  bossGroupThread: 2
+  workGroupThread: 2
+  localHost: 192.168.1.113
+  localPort: 17820
+  serverId: 1
+  serverName: GateWay
+  version: 1.0.0

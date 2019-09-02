@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="maven-assembly" />
+        <module name="dynamic-agent" />
+        <module name="java-basic" />
+        <module name="schedule" />
+        <module name="sigar-serverInfo" />
+        <module name="read-resources-file" />
+        <module name="httpClient" />
+        <module name="curator-lock" />
+        <module name="server-manager" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="curator-lock" options="-parameters" />
+      <module name="dynamic-agent" options="-parameters" />
+      <module name="httpClient" options="-parameters" />
+      <module name="java-basic" options="-parameters" />
+      <module name="maven-assembly" options="-parameters" />
+      <module name="read-resources-file" options="-parameters" />
+      <module name="schedule" options="-parameters" />
+      <module name="server-manager" options="-parameters" />
+      <module name="sigar-serverInfo" options="-parameters" />
+    </option>
+  </component>
+</project>

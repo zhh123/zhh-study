@@ -1,0 +1,8 @@
+server: 8080
+serverinfo:
+  name: prod
+  port: 17823
+  host: 192.168.1.113
+
+
+
