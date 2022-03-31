@@ -29,7 +29,7 @@
 
     <properties>
         <sigar-version>1.6.4</sigar-version>
-        <spring.boot>2.1.2.RELEASE</spring.boot>
+        <spring.boot>2.5.12</spring.boot>
         <commons.io.version>2.6</commons.io.version>
         <snakeyaml.version>1.23</snakeyaml.version>
         <httpClient>4.5.6</httpClient>
