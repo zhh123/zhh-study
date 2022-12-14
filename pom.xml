@@ -31,7 +31,7 @@
         <sigar-version>1.6.4</sigar-version>
         <spring.boot>2.1.2.RELEASE</spring.boot>
         <commons.io.version>2.6</commons.io.version>
-        <snakeyaml.version>1.23</snakeyaml.version>
+        <snakeyaml.version>1.32</snakeyaml.version>
         <httpClient>4.5.6</httpClient>
         <zookeeper.curator>4.2.0</zookeeper.curator>
     </properties>
